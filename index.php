@@ -21,7 +21,7 @@ print_r($data1);
 echo 
 '<form action="index.php" method="GET" name="id">
 <input type="text" name="id">
-<input type="submit" value="Get this Video">
+<input type="submit" value="Get ">
 </form>';
 
 echo "<img src=".$data1["iurlhq"]."><br>";
